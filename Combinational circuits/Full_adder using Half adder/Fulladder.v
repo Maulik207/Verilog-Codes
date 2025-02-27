@@ -1,4 +1,4 @@
-`include "ha.v"
+`include "Halfadder.v"
 
 module fa(
 input a,b,c,
