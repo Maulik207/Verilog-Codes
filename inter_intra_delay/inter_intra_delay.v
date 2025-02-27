@@ -22,7 +22,7 @@ module test;
   end
   
   initial begin
-   // $dumpfile("dump.vcd");$dumvars;
+    $dumpfile("dump.vcd");$dumvars;
   end
   
 endmodule
