@@ -1,4 +1,4 @@
-`include "srff.v"
+`include "sr_flipflop.v"
 module srff_tb;
 
 reg s;
